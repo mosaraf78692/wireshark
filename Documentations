@@ -1,0 +1,15 @@
+pip3 install pyshark
+pip3 install subprocess
+pip3 install json
+pip3 install csv
+pip3 install pyfiglet
+pip3 install openpyxl
+pip3 install requests
+
+
+
+Those libraries have to be installed to execute this script properly,
+
+Get the .cap extension file from the wireshark network trafic and just put that file on that script while ask it for then do whatever you want, 
+
+get ips detatils and store anywhere you want and more more
